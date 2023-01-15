@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İkiSayininToplami", "Algor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İkiSayininKarelerininToplami", "İkiSayininKarelerininToplami\İkiSayininKarelerininToplami.csproj", "{54A59E26-4956-40FE-8AF2-A0B87C95ED96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1'den 10'a kadar olan sayıların küplerinin toplamı", "1'den 10'a kadar olan sayıların küplerinin toplamı\1'den 10'a kadar olan sayıların küplerinin toplamı.csproj", "{935E6B34-30A8-4B9C-A805-36D0CE78BF87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{54A59E26-4956-40FE-8AF2-A0B87C95ED96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54A59E26-4956-40FE-8AF2-A0B87C95ED96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54A59E26-4956-40FE-8AF2-A0B87C95ED96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935E6B34-30A8-4B9C-A805-36D0CE78BF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935E6B34-30A8-4B9C-A805-36D0CE78BF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935E6B34-30A8-4B9C-A805-36D0CE78BF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935E6B34-30A8-4B9C-A805-36D0CE78BF87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
