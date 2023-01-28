@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İkiSayininToplami", "AlgorithmPractices\İkiSayininToplami.csproj", "{2860AB9E-FFF6-46C1-A321-991925F366B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "İkiSayininToplami", "AlgorithmPractices\İkiSayininToplami.csproj", "{2860AB9E-FFF6-46C1-A321-991925F366B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İkiSayininKarelerininToplami", "İkiSayininKarelerininToplami\İkiSayininKarelerininToplami.csproj", "{54A59E26-4956-40FE-8AF2-A0B87C95ED96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "İkiSayininKarelerininToplami", "İkiSayininKarelerininToplami\İkiSayininKarelerininToplami.csproj", "{54A59E26-4956-40FE-8AF2-A0B87C95ED96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1'den 10'a kadar olan sayıların küplerinin toplamı", "1'den 10'a kadar olan sayıların küplerinin toplamı\1'den 10'a kadar olan sayıların küplerinin toplamı.csproj", "{935E6B34-30A8-4B9C-A805-36D0CE78BF87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1'den 10'a kadar olan sayıların küplerinin toplamı", "1'den 10'a kadar olan sayıların küplerinin toplamı\1'den 10'a kadar olan sayıların küplerinin toplamı.csproj", "{935E6B34-30A8-4B9C-A805-36D0CE78BF87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doğum Tarihi Girilen Kişinin Yaşını Hesaplayan Algoritma", "Doğum Tarihi Girilen Kişinin Yaşını Hesaplayan Algoritma\Doğum Tarihi Girilen Kişinin Yaşını Hesaplayan Algoritma.csproj", "{61BFDFCA-59ED-48C9-B49D-ECC82683F662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doğum Tarihi Girilen Kişinin Yaşını Hesaplayan Algoritma", "Doğum Tarihi Girilen Kişinin Yaşını Hesaplayan Algoritma\Doğum Tarihi Girilen Kişinin Yaşını Hesaplayan Algoritma.csproj", "{61BFDFCA-59ED-48C9-B49D-ECC82683F662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktöriyel hesaplama", "Faktöriyel hesaplama\Faktöriyel hesaplama.csproj", "{9E278172-D7BD-48A3-B807-8588C507E92F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{61BFDFCA-59ED-48C9-B49D-ECC82683F662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61BFDFCA-59ED-48C9-B49D-ECC82683F662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61BFDFCA-59ED-48C9-B49D-ECC82683F662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E278172-D7BD-48A3-B807-8588C507E92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E278172-D7BD-48A3-B807-8588C507E92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E278172-D7BD-48A3-B807-8588C507E92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E278172-D7BD-48A3-B807-8588C507E92F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
