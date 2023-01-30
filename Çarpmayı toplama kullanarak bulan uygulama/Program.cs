@@ -15,7 +15,7 @@
         // System.Console.WriteLine($"{sayi1} x {sayi2} = {carpmaSonucu}");
         #endregion Çözüm 2
         #region  Çözüm2
-
+        System.Console.WriteLine("Lütfen birinci sayıyı giriniz");
         #endregion
     }
 }
