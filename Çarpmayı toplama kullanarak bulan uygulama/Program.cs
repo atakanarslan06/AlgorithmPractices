@@ -16,6 +16,7 @@
         #endregion Çözüm 2
         #region  Çözüm2
         System.Console.WriteLine("Lütfen birinci sayıyı giriniz");
+        int sayi1 = Convert.ToInt32(Console.ReadLine());
         #endregion
     }
 }
