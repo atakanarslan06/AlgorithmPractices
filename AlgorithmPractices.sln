@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doğum Tarihi Girilen Kişi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Faktöriyel hesaplama", "Faktöriyel hesaplama\Faktöriyel hesaplama.csproj", "{9E278172-D7BD-48A3-B807-8588C507E92F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pozitif sayılarda bölme işlemini çıkarma kullanarak yapan uygulama", "Pozitif sayılarda bölme işlemini çıkarma kullanarak yapan uygulama\Pozitif sayılarda bölme işlemini çıkarma kullanarak yapan uygulama.csproj", "{288D87BA-863F-45FC-B9EE-B21F86A05159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pozitif sayılarda bölme işlemini çıkarma kullanarak yapan uygulama", "Pozitif sayılarda bölme işlemini çıkarma kullanarak yapan uygulama\Pozitif sayılarda bölme işlemini çıkarma kullanarak yapan uygulama.csproj", "{288D87BA-863F-45FC-B9EE-B21F86A05159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girilen sayının kaç basamaklı olduğunu söyleyen uygulama", "Girilen sayının kaç basamaklı olduğunu söyleyen uygulama\Girilen sayının kaç basamaklı olduğunu söyleyen uygulama.csproj", "{0688BB2B-EA66-4057-BBAE-345DDF829DCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{288D87BA-863F-45FC-B9EE-B21F86A05159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{288D87BA-863F-45FC-B9EE-B21F86A05159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{288D87BA-863F-45FC-B9EE-B21F86A05159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0688BB2B-EA66-4057-BBAE-345DDF829DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0688BB2B-EA66-4057-BBAE-345DDF829DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0688BB2B-EA66-4057-BBAE-345DDF829DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0688BB2B-EA66-4057-BBAE-345DDF829DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
