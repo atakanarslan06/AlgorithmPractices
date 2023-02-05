@@ -38,5 +38,11 @@
         //sonuc++;
         //Console.WriteLine($"{sayi} sayısı {sonuc} basamaklıdır.");
         #endregion
+        #region Çözüm 3
+        Console.WriteLine("Lütfen bir sayıyı giriniz");
+        int sayi = int.Parse(Console.ReadLine());
+
+        Console.WriteLine($"{sayi} sayısının basamak değeri {sayi.ToString().Length}");
+        #endregion
     }
 }
